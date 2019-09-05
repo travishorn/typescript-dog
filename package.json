@@ -1,6 +1,6 @@
 {
   "name": "typescript-dog",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "A sample project that runs in the browser. Using TypeScript, Parcel, and Jest.",
   "main": "index.js",
