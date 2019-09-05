@@ -1,6 +1,6 @@
 # TypeScript Dog
 
-A project that runs in the browser. Using TypeScript, Parcel, and Jest.
+A sample project that runs in the browser. Using TypeScript, Parcel, and Jest.
 
 ## License
 

@@ -1,7 +1,8 @@
 {
-  "name": "parcelts",
+  "name": "typescript-dog",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
+  "description": "A sample project that runs in the browser. Using TypeScript, Parcel, and Jest.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -11,14 +12,12 @@
   "keywords": [],
   "author": "Travis Horn <travis@travishorn.com> (https://travishorn.com)",
   "license": "MIT",
-  "dependencies": {
-    "parcel-bundler": "^1.12.3"
-  },
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-typescript": "^7.3.3",
     "jest": "^24.9.0",
+    "parcel-bundler": "^1.12.3",
     "typescript": "^3.6.2"
   }
 }
