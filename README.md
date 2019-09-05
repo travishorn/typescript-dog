@@ -2,6 +2,59 @@
 
 A sample project that runs in the browser. Using TypeScript, Parcel, and Jest.
 
+## Setup
+
+Clone the repository.
+
+```
+git clone https://github.com/travishorn/typescript-dog.git
+```
+
+Change into the directory.
+
+```
+cd typescript dog
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+## Develop
+
+Run the development server.
+
+```
+npm run dev
+```
+
+The development server will be listening at http://localhost:1234
+
+Source code is written in the `src/` directory.
+
+## Test
+
+Test are written using the Jest in the `test/` directory.
+
+Run them via npm.
+
+```
+npm run test
+```
+
+## Deploy
+
+Build for production.
+
+```
+npm run build
+```
+
+Built files can be found in the `dist/` directory. Push those to any hosting
+provider you wish.
+
 ## License
 
 The MIT License
